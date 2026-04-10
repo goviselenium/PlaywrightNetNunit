@@ -1,0 +1,14 @@
+{
+  "environment": "QA",
+  "baseUrl": "https://qa.example.com",
+  "username": "qa_user@example.com",
+  "password": "QaPassword@123",
+  "defaultTimeout": 30000,
+  "navigationTimeout": 60000,
+  "apiBaseUrl": "https://api.qa.example.com",
+  "db": {
+    "host": "qa-db.example.com",
+    "port": 5432,
+    "name": "qa_db"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "environment": "STAGING",
+  "baseUrl": "https://staging.example.com",
+  "username": "staging_user@example.com",
+  "password": "StagingPassword@123",
+  "defaultTimeout": 30000,
+  "navigationTimeout": 60000,
+  "apiBaseUrl": "https://api.staging.example.com",
+  "db": {
+    "host": "staging-db.example.com",
+    "port": 5432,
+    "name": "staging_db"
+  }
+}
